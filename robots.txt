@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimoview.github.io/sitemap.xml
